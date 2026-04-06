@@ -1,3 +1,4 @@
+package set;
 import java.util.Scanner;
 
 class BankAccount {
