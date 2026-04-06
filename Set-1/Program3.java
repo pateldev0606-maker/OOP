@@ -1,3 +1,5 @@
+package set;
+
 public class CommandLineSum {
     public static void main(String[] args) {
         
