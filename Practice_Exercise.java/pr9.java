@@ -13,7 +13,7 @@ class Rectangle {
     }
 }
 
-public class Main {
+public class Rearea {
     public static void main(String[] args) {
 
         Rectangle r1 = new Rectangle();
