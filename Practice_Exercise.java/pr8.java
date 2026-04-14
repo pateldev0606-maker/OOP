@@ -24,7 +24,7 @@ class Point {
     }
 }
 
-public class MainPoint {
+public class Mainpoint {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
