@@ -23,7 +23,7 @@ class Rectangle extends Shape {
     }
 }
 
-public class Main {
+public class maintriangle {
     public static void main(String[] args) {
 
         Triangle t = new Triangle();
