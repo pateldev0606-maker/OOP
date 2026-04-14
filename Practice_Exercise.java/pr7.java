@@ -23,7 +23,7 @@ class Employee {
     }
 }
 
-public class EmpData {
+public class Empdata {
     public static void main(String[] args) {
         Employee emp = new Employee();
         emp.readEmployeeData();
