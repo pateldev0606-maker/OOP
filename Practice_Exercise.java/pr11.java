@@ -33,7 +33,7 @@ class College {
     }
 }
 
-public class Main {
+public class Addme {
     public static void main(String[] args) {
 
         College c = new College("GTU College");
