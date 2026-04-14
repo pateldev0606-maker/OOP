@@ -2,7 +2,7 @@ package set;
 
 import java.util.Scanner;
 
-public class TriangleArea {
+public class Trianglearea {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
